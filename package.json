@@ -26,6 +26,6 @@
     "rand-token": "^0.4.0",
     "req-flash": "0.0.3",
     "request": "^2.87.0",
-    "stellar-sdk": "^0.8.2"
+    "stellar-sdk": "^8.2.3"
   }
 }
